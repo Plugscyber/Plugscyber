@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Plugscyber
-- 👀 I’m interested in Ao3 site skins.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 👀 I’m interested in Ao3 site skins and twine games.
+- 🌱 I’m currently learning HTML, CSS and Twine Harlow.
 
 <!---
 Plugscyber/Plugscyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
